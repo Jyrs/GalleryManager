@@ -13,8 +13,8 @@
 
 
         <StackPanel Margin="0,72,0,0" Orientation="Horizontal" Background="#66DCE617">
-            <StackPanel HorizontalAlignment="Left" Width="150" Background="#FFA523F0">
-                <TreeView x:Name="treeView" HorizontalAlignment="Left" Width="151" Height="361" VerticalAlignment="Top" Background="#FF173CE0"/>
+            <StackPanel HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="150" Background="#FFA523F0">
+                <TreeView x:Name="treeView" HorizontalAlignment="Left" Width="151" Background="#FF173CE0" Height="361" Margin="0,0,-1,0" VerticalAlignment="Top"/>
                 <Button x:Name="button" Content="Button" Height="29" HorizontalAlignment="Left" Width="150" VerticalAlignment="Bottom"/>
             </StackPanel>
             <WrapPanel Height="390" Width="642"  HorizontalAlignment="Right"/>
