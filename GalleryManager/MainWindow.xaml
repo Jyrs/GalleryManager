@@ -1,0 +1,25 @@
+﻿<Window x:Class="GalleryManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GalleryManager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="493" Width="800">
+    <Grid x:Name="layoutGrid">
+        <StackPanel Height="72" VerticalAlignment="Top" Orientation="Horizontal" Background="#FFC92020"/>
+
+
+
+
+        <StackPanel Margin="0,72,0,0" Orientation="Horizontal" Background="#66DCE617">
+            <StackPanel HorizontalAlignment="Left" Width="150" Background="#FFA523F0">
+                <TreeView x:Name="treeView" HorizontalAlignment="Left" Width="151" Height="361" VerticalAlignment="Top" Background="#FF173CE0"/>
+                <Button x:Name="button" Content="Button" Height="29" HorizontalAlignment="Left" Width="150" VerticalAlignment="Bottom"/>
+            </StackPanel>
+            <WrapPanel Height="390" Width="642"  HorizontalAlignment="Right"/>
+        </StackPanel>
+
+    </Grid>
+
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\bin\Debug\GalleryManager.exe.config
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\bin\Debug\GalleryManager.exe
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\bin\Debug\GalleryManager.pdb
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csprojAssemblyReference.cache
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\MainWindow.g.cs
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\App.g.cs
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager_MarkupCompile.cache
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager_MarkupCompile.lref
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\MainWindow.baml
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.g.resources
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.Properties.Resources.resources
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.GenerateResource.cache
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.CoreCompileInputs.cache
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.exe
+C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.pdb
