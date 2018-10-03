@@ -19,12 +19,12 @@
             </StackPanel>
             <WrapPanel Height="390" Width="642"  HorizontalAlignment="Right"/>
         </StackPanel>
-        <Button Content="Ваня гамасек" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Margin="16,82,27,181" Height="199" Width="749">
+        <Button Content="Даша пидор" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72" Margin="210,178,170,184">
             <Button.RenderTransform>
                 <TransformGroup>
-                    <ScaleTransform ScaleY="-1"/>
+                    <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="-23.291"/>
+                    <RotateTransform Angle="90"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Button.RenderTransform>
