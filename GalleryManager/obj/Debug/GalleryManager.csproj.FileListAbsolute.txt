@@ -14,3 +14,18 @@ C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManage
 C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.CoreCompileInputs.cache
 C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.exe
 C:\Users\Jyrs 707\Documents\Projects\GalleryManager\GalleryManager\GalleryManager\obj\Debug\GalleryManager.pdb
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\GalleryManager.exe.config
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\GalleryManager.exe
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\GalleryManager.pdb
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csprojAssemblyReference.cache
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\MainWindow.g.cs
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\App.g.cs
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager_MarkupCompile.cache
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager_MarkupCompile.lref
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\MainWindow.baml
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.g.resources
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.Properties.Resources.resources
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.GenerateResource.cache
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.CoreCompileInputs.cache
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.exe
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.pdb
