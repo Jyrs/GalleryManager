@@ -13,5 +13,10 @@ namespace SQLiteApp
         {
         }
         public DbSet<Gallery> galleries { get; set; }
+        public DbSet<Picture> pictures { get; set; }
     }
+
+
+
+
 }

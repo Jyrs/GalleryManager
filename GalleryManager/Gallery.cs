@@ -5,12 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Data.Entity;
 
 namespace SQLiteApp
 {
     public class Gallery : INotifyPropertyChanged
     {
         private int id;
+        private int sub_gallery;
         private string path;
         private string name;
 
@@ -35,11 +37,25 @@ namespace SQLiteApp
             }
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
+        public int SubGallery
+        {
+            get { return sub_gallery; }
+            set
+            {
+                sub_gallery = value;
+                OnPropertyChanged("sub_gallery");
+            }
+        }
+
+
+            public event PropertyChangedEventHandler PropertyChanged;
         public void OnPropertyChanged([CallerMemberName]string prop = "")
         {
             if (PropertyChanged != null)
                 PropertyChanged(this, new PropertyChangedEventArgs(prop));
         }
     }
+
+
+
 }
