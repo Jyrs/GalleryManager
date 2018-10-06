@@ -24,6 +24,11 @@ namespace GalleryManager
         {
             InitializeComponent();
         }
+
+        private void addGalleryButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 
 

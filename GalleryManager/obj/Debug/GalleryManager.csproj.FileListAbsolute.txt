@@ -44,3 +44,13 @@ C:\Users\Jyrs 707\Desktop\Github\GalleryManager\GalleryManager\obj\Debug\Gallery
 C:\Users\Jyrs 707\Desktop\Github\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.CoreCompileInputs.cache
 C:\Users\Jyrs 707\Desktop\Github\GalleryManager\GalleryManager\obj\Debug\GalleryManager.exe
 C:\Users\Jyrs 707\Desktop\Github\GalleryManager\GalleryManager\obj\Debug\GalleryManager.pdb
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\EntityFramework.dll
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\EntityFramework.xml
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\iv081\Desktop\GalleryManager\GalleryManager\obj\Debug\GalleryManager.csproj.CopyComplete

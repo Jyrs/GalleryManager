@@ -18,7 +18,7 @@
         </Grid.ColumnDefinitions>
 
         <TreeView Grid.Column="0" Grid.Row="1"  x:Name="treeView" HorizontalAlignment="Left" Width="149" Background="#FF173CE0" Margin="0,0,0,29" BorderBrush="Black" Grid.ColumnSpan="2"/>
-        <Button Grid.Column="0" Grid.Row="1"  x:Name="button" Content="Добавить" Height="29" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="149" BorderBrush="Black" Grid.ColumnSpan="2"/>
+        <Button Grid.Column="0" Grid.Row="1"  x:Name="addGalleryButton" Content="Добавить" Height="29" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="149" BorderBrush="Black" Grid.ColumnSpan="2" Click="addGalleryButton_Click"/>
         <WrapPanel Grid.Column="2" Grid.Row="1" Background="#7FF70000"/>
         <StackPanel HorizontalAlignment="Left" Height="65" VerticalAlignment="Top" Width="792" Grid.ColumnSpan="3"/>
 
